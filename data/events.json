@@ -1,0 +1,99 @@
+{
+  "site": {
+    "name": "EventOne",
+    "tagline": "EXPLORE \u2022 LEARN \u2022 CONNECT",
+    "heroTitle": "Discover Amazing Events at Your Campus",
+    "heroText": "Find and join workshops, hackathons, cultural events, tech talks and more. Meet like-minded people and grow together.",
+    "heroImage": "https://images.unsplash.com/photo-1497366754035-f200968a6e72?auto=format&fit=crop&w=1400&q=85"
+  },
+  "stats": {
+    "eventsThisSemester": "50+",
+    "studentsJoined": "2.5K+"
+  },
+  "events": [
+    {
+      "id": "tech-fest-2026",
+      "title": "My New Campus Event",
+      "category": "Technical",
+      "status": "Open",
+      "date": "12 Oct 2026",
+      "time": "10:00 AM",
+      "location": "Block 32 Auditorium",
+      "description": "A two-day celebration of innovation, technology and creativity with talks, competitions and networking.",
+      "image": "https://images.unsplash.com/photo-1505373877841-8d25f7d46678?auto=format&fit=crop&w=900&q=85",
+      "attendees": 120,
+      "organizer": "Tech Club",
+      "tags": [
+        "Technology",
+        "Innovation",
+        "Networking"
+      ],
+      "featured": true
+    },
+    {
+      "id": "ai-ml-workshop",
+      "title": "AI & ML Workshop",
+      "category": "Workshop",
+      "status": "Limited",
+      "date": "18 Oct 2026",
+      "time": "11:00 AM",
+      "location": "Computer Science Block",
+      "description": "A hands-on workshop on real-world applications of Artificial Intelligence and Machine Learning.",
+      "image": "https://images.unsplash.com/photo-1552664730-d307ca884978?auto=format&fit=crop&w=900&q=85",
+      "attendees": 80,
+      "organizer": "AI Society",
+      "tags": [
+        "AI",
+        "ML",
+        "Workshop"
+      ],
+      "featured": true
+    },
+    {
+      "id": "cultural-night",
+      "title": "Cultural Night",
+      "category": "Cultural",
+      "status": "Open",
+      "date": "25 Oct 2026",
+      "time": "6:00 PM",
+      "location": "Main Ground",
+      "description": "Music, dance, drama and more. Celebrate our diverse campus culture with friends.",
+      "image": "https://images.unsplash.com/photo-1501386761578-eac5c94b800a?auto=format&fit=crop&w=900&q=85",
+      "attendees": 200,
+      "organizer": "Cultural Society",
+      "tags": [
+        "Music",
+        "Dance",
+        "Culture"
+      ],
+      "featured": true
+    },
+    {
+      "id": "hackathon-3",
+      "title": "Hackathon 3.0",
+      "category": "Hackathon",
+      "status": "Full",
+      "date": "02 Nov 2026",
+      "time": "9:00 AM",
+      "location": "Innovation Center",
+      "description": "Build innovative solutions to real-world problems. Prizes, mentorship and exciting challenges.",
+      "image": "https://images.unsplash.com/photo-1504384308090-c894fdcc538d?auto=format&fit=crop&w=900&q=85",
+      "attendees": 150,
+      "organizer": "Innovation Center",
+      "tags": [
+        "Coding",
+        "Hackathon",
+        "Innovation"
+      ],
+      "featured": true
+    }
+  ],
+  "categories": [
+    "Technical",
+    "Workshop",
+    "Cultural",
+    "Hackathon",
+    "Sports",
+    "Others"
+  ]
+}
